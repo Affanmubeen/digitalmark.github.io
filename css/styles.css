@@ -187,6 +187,26 @@ p {
         padding: 2% 3% 8%;
         text-align: left;
     }
+
+    .footer-icon {
+        font-size: large;
+    }
+
+    .copyright {
+        font-size: large;
+    }
+
+    .features-column {
+        padding: 5% 16%;
+    }
+
+    .features-head {
+        font-size: 2rem;
+    }
+
+    .features-description {
+        font-size: 1.2rem;
+    }
 }
 
 
