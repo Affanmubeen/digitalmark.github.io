@@ -179,6 +179,14 @@ p {
         margin-top: 20px;
     }
 
+    .container-fluid {
+        padding: 7% 3%;
+    }
+
+    #title .container-fluid {
+        padding: 2% 3% 8%;
+        text-align: left;
+    }
 }
 
 
